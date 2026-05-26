@@ -1,6 +1,3 @@
-# TFM
-Repositori oficial del Treball Final de Màster en Ciència de Dades (UOC). Desenvolupament d'un model predictiu tabular i interpretable basat en aprenentatge automàtic per a l'avaluació de la salut mental en entorns digitals de joc i detecció de conductes de risc.
-
 # Disseny d'un model predictiu per a l'avaluació de la salut mental en entorns digitals de joc
 
 Aquest repositori conté el codi font, els experiments i el pipeline de ciència de dades desenvolupats per al Treball Final de Màster (TFM) del Màster Universitari en Ciència de Dades de la Universitat Oberta de Catalunya (UOC).
