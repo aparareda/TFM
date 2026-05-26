@@ -5,7 +5,7 @@ Repositori oficial del Treball Final de Màster en Ciència de Dades (UOC). Dese
 
 Aquest repositori conté el codi font, els experiments i el pipeline de ciència de dades desenvolupats per al Treball Final de Màster (TFM) del Màster Universitari en Ciència de Dades de la Universitat Oberta de Catalunya (UOC).
 
-## 🚀 Descripció del Projecte
+## Descripció del Projecte
 L'objectiu principal d'aquest treball és dissenyar, implementar i validar un model predictiu basat en aprenentatge automàtic (Machine Learning) i aprenentatge profund (Deep Learning) per identificar perfils de risc de salut mental (com ara addicció, ansietat o depressió) en jugadors de videojocs. 
 
 Mitjançant l'anàlisi de patrons de comportament, hàbits de vida i nivells d'implicació financera, el model busca actuar com una prova de concepte metodològica per fomentar un disseny de videojocs més ètic i un consum digital saludable.
